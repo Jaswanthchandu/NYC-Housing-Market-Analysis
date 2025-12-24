@@ -1,6 +1,6 @@
 # NYC-Housing-Market-Analysis
 
-# Project Overview
+Project Overview
 This project analyzes residential housing prices in New York City to identify the key factors driving price variation across boroughs. The analysis focuses on understanding how property characteristics, borough location, transit accessibility, and crime indicators influence housing prices. Using Python-based data processing and statistical analysis, the project provides insights into borough-level affordability patterns and pricing dynamics.
 
 # Data Source and Description
